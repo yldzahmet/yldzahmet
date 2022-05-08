@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ahmet Yıldız
 - 👀 I’m interested in Game Development with Unity3D and C#
 - 🌱 I developed 2 title previously you can acces through >> www.yldzgames.com
-- 💞️ I’m looking to collaborate on mobide games.
+- 💞️ I’m looking to collaborate on mobile games.
 - 📫 How to reach me >> Ahmet.yldz.207@gmail.com
 
 <!---
